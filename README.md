@@ -1,2 +1,2 @@
 # my_django_app
-Django Intro
+Django Intro development
